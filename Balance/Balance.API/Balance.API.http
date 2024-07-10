@@ -1,0 +1,6 @@
+@Balance.API_HostAddress = http://localhost:5179
+
+GET http://localhost:3003/api/balance/sample-account-id
+
+
+###
